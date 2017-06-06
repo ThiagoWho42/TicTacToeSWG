@@ -30,10 +30,11 @@ public class Sobre
 	public String versao()
 	{
 		String TextoSobre = "\n"
-						+"_________________________________________________      \n\n"       									 
-			 			+"   Desenvolvidor por.:      Juliano Dorigão  \n"
-			 			+"                versão 0.3 Beta            \n"
-			 			+"_________________________________________________ \n\n";
+						+"______________________________________________________________      \n\n"       									 
+			 			+"        Desenvolvidor por.:      Juliano Dorigão  \n\n"
+			 			+"                     versão 1.0 Beta            \n\n"
+			 			+"  Github.: https://github.com/jdorigao/TicTacToeSWG \n\n"
+			 			+"______________________________________________________________ \n\n";
 		
 		return TextoSobre;		
 	}// Fim Versao
